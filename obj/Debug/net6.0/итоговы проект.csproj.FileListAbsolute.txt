@@ -1,0 +1,15 @@
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/bin/Debug/net6.0/итоговы проект
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/bin/Debug/net6.0/итоговы проект.deps.json
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/bin/Debug/net6.0/итоговы проект.runtimeconfig.json
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/bin/Debug/net6.0/итоговы проект.dll
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/bin/Debug/net6.0/итоговы проект.pdb
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.csproj.AssemblyReference.cache
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.AssemblyInfoInputs.cache
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.AssemblyInfo.cs
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.csproj.CoreCompileInputs.cache
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.dll
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/refint/итоговы проект.dll
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.pdb
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/итоговы проект.genruntimeconfig.cache
+/Users/paridjanka/Documents/GeekBrains/итоговы проект/obj/Debug/net6.0/ref/итоговы проект.dll
